@@ -1,3 +1,4 @@
 # js.assinment-8
 
-1.http/js-assinment6.netlify.app
+1.https://js-assinment6.netlify.app/
+
